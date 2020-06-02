@@ -1,0 +1,13 @@
+#include<iostream.h>
+Using namespace std;
+intmain()
+{
+intnumber=147;
+number.int res;
+if(number)
+res=number%9==0?9:number%9;
+else
+res=0;
+cout<<res;
+return0;
+}
